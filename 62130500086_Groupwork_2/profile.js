@@ -4,7 +4,7 @@ const app = {
             firstname: 'Wuttichai',
             lastname:'Arayasook',
             career:'IT Student',
-            image:'/62130500086_Groupwork_2/images/2.jpg',
+            image:'images/2.jpg',
             article : '77',
             follower :'100K',
             rating :'10'
